@@ -1,0 +1,28 @@
+name: Run StreamCenter Scraper Every 5 Minutes
+
+on:
+  schedule:
+    - cron: '*/5 * * * *' # প্রতি ৫ মিনিট পর পর অটো রান হবে
+  workflow_dispatch: # প্রয়োজনে আপনি নিজে বাটন চেপেও রান করতে পারবেন
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository Code
+      uses: actions/checkout@v4
+
+    - name: Set up Python Environment
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        cache: 'pip' # দ্রুত রান হওয়ার জন্য ক্যাশ অন করা হয়েছে
+
+    - name: Install Requirements
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Execute Scraper Script
+      run: python main.py
