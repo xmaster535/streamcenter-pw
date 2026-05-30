@@ -104,13 +104,13 @@ https://mainstreams.pro/hls/hefbafbakx28.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us",[Baseball] San Francisco Giants at Colorado Rockies (STRMCNTR)
 https://mainstreams.pro/hls/jzabfazkbf27.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us",[Baseball] Milwaukee Brewers at Houston Astros (STRMCNTR)
-https://mainstreams.pro/hls/dzjhkfazbka26.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us",[Baseball] Kansas City Royals at Texas Rangers (STRMCNTR)
 https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us",[Baseball] Kansas City Royals at Texas Rangers (STRMCNTR)
+https://mainstreams.pro/hls/bzagLHzach19.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us",[Hockey] Montreal Canadiens at Carolina Hurricanes (STRMCNTR)
 https://mainstreams.pro/hls/uyopzarf50.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us",[Baseball] Detroit Tigers at Chicago White Sox (STRMCNTR)
-https://mainstreams.pro/hls/ijfnakfidch22.m3u8
+https://mainstreams.pro/hls/dazhfiach15.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us",[Basketball] Los Angeles Sparks at Washington Mystics (STRMCNTR)
 https://mainstreams.pro/hls/ztyarueaghj71.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us",[Basketball] Minnesota Lynx at Chicago Sky (STRMCNTR)
@@ -118,8 +118,16 @@ https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us",[Baseball] Chicago Cubs at St. Louis Cardinals (STRMCNTR)
 https://mainstreams.pro/hls/kjhfzua25.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us",[Baseball] Los Angeles Angels at Tampa Bay Rays (STRMCNTR)
-https://mainstreams.pro/hls/bzagLHzach19.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us",[Baseball] Boston Red Sox at Cleveland Guardians (STRMCNTR)
 https://mainstreams.pro/hls/jkzahzadach20.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us",[Baseball] Miami Marlins at New York Mets (STRMCNTR)
+#EXTINF:-1 tvg-id="Live.Event.us",[Baseball] Boston Red Sox at Cleveland Guardians (STRMCNTR)
 https://mainstreams.pro/hls/ojzkajnach21.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us",[Baseball] Miami Marlins at New York Mets (STRMCNTR)
+https://mainstreams.pro/hls/ijfnakfidch22.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us",[Basketball] Los Angeles Sparks at Connecticut Sun (STRMCNTR)
+https://mainstreams.pro/hls/ztyarueaghj71.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us",[Basketball] Seattle Storm at Toronto Tempo (STRMCNTR)
+https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us",[Football] Arsenal at Paris Saint-Germain (STRMCNTR)
+https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us",[Fight MMA] UFC Fight Night: Song vs. Figueiredo (STRMCNTR)
+https://mainstreams.pro/hls/zeuryuegn48.m3u8
