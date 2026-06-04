@@ -680,12 +680,12 @@
         "link": "https://streams.center/embed/ch17.php"
     },
     "[Baseball] San Francisco Giants at Milwaukee Brewers (STRMCNTR)": {
-        "url": "https://mainstreams.pro/hls/bzagLHzach19.m3u8",
+        "url": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8",
         "logo": null,
         "base": "https://streamcenter.xyz",
-        "timestamp": 1780358402.110987,
+        "timestamp": 1780570303.805474,
         "id": "Live.Event.us",
-        "link": "https://streams.center/embed/ch19.php"
+        "link": "https://streams.center/embed/ch18.php"
     },
     "[Baseball] Kansas City Royals at Cincinnati Reds (STRMCNTR)": {
         "url": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8",
@@ -696,20 +696,20 @@
         "link": "https://streams.center/embed/ch17.php"
     },
     "[Baseball] Baltimore Orioles at Boston Red Sox (STRMCNTR)": {
-        "url": "https://mainstreams.pro/hls/jkzahzadach20.m3u8",
+        "url": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8",
         "logo": null,
         "base": "https://streamcenter.xyz",
-        "timestamp": 1780528546.072416,
+        "timestamp": 1780570303.805474,
         "id": "Live.Event.us",
-        "link": "https://streams.center/embed/ch20.php"
+        "link": "https://streams.center/embed/ch16.php"
     },
     "[Baseball] San Diego Padres at Philadelphia Phillies (STRMCNTR)": {
-        "url": "https://mainstreams.pro/hls/bzagLHzach19.m3u8",
+        "url": "https://mainstreams.pro/hls/dazhfiach15.m3u8",
         "logo": null,
         "base": "https://streamcenter.xyz",
-        "timestamp": 1780528546.072416,
+        "timestamp": 1780570303.805474,
         "id": "Live.Event.us",
-        "link": "https://streams.center/embed/ch19.php"
+        "link": "https://streams.center/embed/ch15.php"
     },
     "[Football] Ghana at Wales (STRMCNTR)": {
         "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8",
@@ -750,5 +750,37 @@
         "timestamp": 1780502363.907848,
         "id": "Live.Event.us",
         "link": "https://streams.center/embed/ch3.php"
+    },
+    "[Football] Ivory Coast at France (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8",
+        "logo": null,
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1780570303.805474,
+        "id": "Live.Event.us",
+        "link": "https://streams.center/embed/ch1.php"
+    },
+    "[Football] Iraq at Spain (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8",
+        "logo": null,
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1780570303.805474,
+        "id": "Live.Event.us",
+        "link": "https://streams.center/embed/ch3.php"
+    },
+    "[Baseball] Cleveland Guardians at New York Yankees (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8",
+        "logo": null,
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1780570303.805474,
+        "id": "Live.Event.us",
+        "link": "https://streams.center/embed/ch17.php"
+    },
+    "[Football] Greece at Sweden (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8",
+        "logo": null,
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1780570303.805474,
+        "id": "Live.Event.us",
+        "link": "https://streams.center/embed/ch2.php"
     }
 }
