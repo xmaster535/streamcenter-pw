@@ -1211,7 +1211,7 @@
         "url": "https://mainstreams.pro/hls/uyopzarf50.m3u8",
         "logo": null,
         "base": "https://streamcenter.xyz",
-        "timestamp": 1781049736.111698,
+        "timestamp": 1781487888.312202,
         "id": "Live.Event.us",
         "link": "https://streams.center/embed/ch50.php"
     },
@@ -1488,12 +1488,12 @@
         "link": "https://streams.center/embed/ch21.php"
     },
     "[Baseball] Texas Rangers at Boston Red Sox (STRMCNTR)": {
-        "url": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8",
+        "url": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8",
         "logo": null,
         "base": "https://streamcenter.xyz",
-        "timestamp": 1781393805.363217,
+        "timestamp": 1781487888.312202,
         "id": "Live.Event.us",
-        "link": "https://streams.center/embed/ch23.php"
+        "link": "https://streams.center/embed/ch29.php"
     },
     "[Baseball] San Diego Padres at Baltimore Orioles (STRMCNTR)": {
         "url": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8",
@@ -1604,6 +1604,30 @@
         "logo": null,
         "base": "https://streamcenter.xyz",
         "timestamp": 1781469739.63421,
+        "id": "Live.Event.us",
+        "link": "https://streams.center/embed/ch1.php"
+    },
+    "[Football] Tunisia at Sweden (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8",
+        "logo": null,
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1781487888.312202,
+        "id": "Live.Event.us",
+        "link": "https://streams.center/embed/ch1.php"
+    },
+    "[Fight MMA] UFC Freedom 250: Topuria vs. Gaethje (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/zeuryuegn48.m3u8",
+        "logo": null,
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1781487888.312202,
+        "id": "Live.Event.us",
+        "link": "https://streams.center/embed/ch48.php"
+    },
+    "[Football] Ecuador at Ivory Coast (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8",
+        "logo": null,
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1781487888.312202,
         "id": "Live.Event.us",
         "link": "https://streams.center/embed/ch1.php"
     }
