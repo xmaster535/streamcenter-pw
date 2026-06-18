@@ -1926,5 +1926,29 @@
         "timestamp": 1781746981.188036,
         "id": "Live.Event.us",
         "link": "https://streams.center/embed/ch70.php"
+    },
+    "[Football] Qatar at Canada (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8",
+        "logo": null,
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1781764268.598002,
+        "id": "Live.Event.us",
+        "link": "https://streams.center/embed/ch1.php"
+    },
+    "[Football] Bosnia-Herzegovina at Switzerland (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8",
+        "logo": null,
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1781764268.598002,
+        "id": "Live.Event.us",
+        "link": "https://streams.center/embed/ch1.php"
+    },
+    "[Football] South Africa at Czechia (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8",
+        "logo": null,
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1781764268.598002,
+        "id": "Live.Event.us",
+        "link": "https://streams.center/embed/ch1.php"
     }
 }
