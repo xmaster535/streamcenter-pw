@@ -539,3 +539,7 @@ https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8
 https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us",[Football] Sweden at Netherlands (STRMCNTR)
 https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us",[Basketball] Seattle Storm at Phoenix Mercury (STRMCNTR)
+https://mainstreams.pro/hls/ztyarueaghj71.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us",[Basketball] Indiana Fever at Atlanta Dream (STRMCNTR)
+https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8
