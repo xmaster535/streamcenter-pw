@@ -1952,12 +1952,12 @@
         "link": "https://streams.center/embed/ch1.php"
     },
     "[Baseball] New York Mets at Philadelphia Phillies (STRMCNTR)": {
-        "url": "https://mainstreams.pro/hls/bzagLHzach19.m3u8",
+        "url": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8",
         "logo": null,
         "base": "https://streamcenter.xyz",
-        "timestamp": 1781821114.200735,
+        "timestamp": 1782094239.38873,
         "id": "Live.Event.us",
-        "link": "https://streams.center/embed/ch19.php"
+        "link": "https://streams.center/embed/ch29.php"
     },
     "[Baseball] Los Angeles Angels at Athletics Athletics (STRMCNTR)": {
         "url": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8",
@@ -2214,5 +2214,21 @@
         "timestamp": 1782018585.031061,
         "id": "Live.Event.us",
         "link": "https://streams.center/embed/ch1.php"
+    },
+    "[Football] Egypt at New Zealand (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8",
+        "logo": null,
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782094239.38873,
+        "id": "Live.Event.us",
+        "link": "https://streams.center/embed/ch1.php"
+    },
+    "[Basketball] New York Liberty at Los Angeles Sparks (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8",
+        "logo": null,
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782094239.38873,
+        "id": "Live.Event.us",
+        "link": "https://streams.center/embed/ch72.php"
     }
 }
