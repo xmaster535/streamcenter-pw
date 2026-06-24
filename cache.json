@@ -2232,36 +2232,36 @@
         "link": "https://streams.center/embed/ch72.php"
     },
     "[Baseball] Philadelphia Phillies at Washington Nationals (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8",
+        "logo": null,
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782279176.718228,
+        "id": "Live.Event.us",
+        "link": "https://streams.center/embed/ch23.php"
+    },
+    "[Baseball] Kansas City Royals at Tampa Bay Rays (STRMCNTR)": {
         "url": "https://mainstreams.pro/hls/jkzahzadach20.m3u8",
         "logo": null,
         "base": "https://streamcenter.xyz",
-        "timestamp": 1782256795.729585,
+        "timestamp": 1782279176.718228,
         "id": "Live.Event.us",
         "link": "https://streams.center/embed/ch20.php"
     },
-    "[Baseball] Kansas City Royals at Tampa Bay Rays (STRMCNTR)": {
-        "url": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8",
-        "logo": null,
-        "base": "https://streamcenter.xyz",
-        "timestamp": 1782256795.729585,
-        "id": "Live.Event.us",
-        "link": "https://streams.center/embed/ch16.php"
-    },
     "[Baseball] Texas Rangers at Miami Marlins (STRMCNTR)": {
-        "url": "https://mainstreams.pro/hls/bzagLHzach19.m3u8",
+        "url": "https://mainstreams.pro/hls/dazhfiach15.m3u8",
         "logo": null,
         "base": "https://streamcenter.xyz",
-        "timestamp": 1782256795.729585,
+        "timestamp": 1782279176.718228,
         "id": "Live.Event.us",
-        "link": "https://streams.center/embed/ch19.php"
+        "link": "https://streams.center/embed/ch15.php"
     },
     "[Baseball] New York Yankees at Detroit Tigers (STRMCNTR)": {
-        "url": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8",
+        "url": "https://mainstreams.pro/hls/ojzkajnach21.m3u8",
         "logo": null,
         "base": "https://streamcenter.xyz",
-        "timestamp": 1782256795.729585,
+        "timestamp": 1782279176.718228,
         "id": "Live.Event.us",
-        "link": "https://streams.center/embed/ch17.php"
+        "link": "https://streams.center/embed/ch21.php"
     },
     "[Football] Iraq at France (STRMCNTR)": {
         "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8",
@@ -2291,7 +2291,7 @@
         "url": "https://mainstreams.pro/hls/hefbafbakx28.m3u8",
         "logo": null,
         "base": "https://streamcenter.xyz",
-        "timestamp": 1782264114.751381,
+        "timestamp": 1782279176.718228,
         "id": "Live.Event.us",
         "link": "https://streams.center/embed/ch28.php"
     },
@@ -2307,17 +2307,17 @@
         "url": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8",
         "logo": null,
         "base": "https://streamcenter.xyz",
-        "timestamp": 1782264114.751381,
+        "timestamp": 1782279176.718228,
         "id": "Live.Event.us",
         "link": "https://streams.center/embed/ch27.php"
     },
     "[Baseball] Boston Red Sox at Colorado Rockies (STRMCNTR)": {
-        "url": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8",
+        "url": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8",
         "logo": null,
         "base": "https://streamcenter.xyz",
-        "timestamp": 1782264114.751381,
+        "timestamp": 1782279176.718228,
         "id": "Live.Event.us",
-        "link": "https://streams.center/embed/ch26.php"
+        "link": "https://streams.center/embed/ch18.php"
     },
     "[Football] Senegal at Norway (STRMCNTR)": {
         "url": "https://mainstreams.pro/hls/griogoehvn2.m3u8",
@@ -2344,12 +2344,12 @@
         "link": "https://streams.center/embed/ch25.php"
     },
     "[Baseball] Cleveland Guardians at Chicago White Sox (STRMCNTR)": {
-        "url": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8",
+        "url": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8",
         "logo": null,
         "base": "https://streamcenter.xyz",
-        "timestamp": 1782264114.751381,
+        "timestamp": 1782279176.718228,
         "id": "Live.Event.us",
-        "link": "https://streams.center/embed/ch23.php"
+        "link": "https://streams.center/embed/ch17.php"
     },
     "[Baseball] Los Angeles Dodgers at Minnesota Twins (STRMCNTR)": {
         "url": "https://mainstreams.pro/hls/fskjanach24.m3u8",
@@ -2368,12 +2368,12 @@
         "link": "https://streams.center/embed/ch71.php"
     },
     "[Baseball] Chicago Cubs at New York Mets (STRMCNTR)": {
-        "url": "https://mainstreams.pro/hls/ojzkajnach21.m3u8",
+        "url": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8",
         "logo": null,
         "base": "https://streamcenter.xyz",
-        "timestamp": 1782264114.751381,
+        "timestamp": 1782279176.718228,
         "id": "Live.Event.us",
-        "link": "https://streams.center/embed/ch21.php"
+        "link": "https://streams.center/embed/ch16.php"
     },
     "[Baseball] Milwaukee Brewers at Cincinnati Reds (STRMCNTR)": {
         "url": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8",
@@ -2400,12 +2400,12 @@
         "link": "https://streams.center/embed/ch70.php"
     },
     "[Baseball] Seattle Mariners at Pittsburgh Pirates (STRMCNTR)": {
-        "url": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8",
+        "url": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8",
         "logo": null,
         "base": "https://streamcenter.xyz",
-        "timestamp": 1782256795.729585,
+        "timestamp": 1782279176.718228,
         "id": "Live.Event.us",
-        "link": "https://streams.center/embed/ch18.php"
+        "link": "https://streams.center/embed/ch22.php"
     },
     "[Football] Ghana at England (STRMCNTR)": {
         "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8",
@@ -2427,7 +2427,7 @@
         "url": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8",
         "logo": null,
         "base": "https://streamcenter.xyz",
-        "timestamp": 1782264114.751381,
+        "timestamp": 1782279176.718228,
         "id": "Live.Event.us",
         "link": "https://streams.center/embed/ch70.php"
     },
@@ -2435,7 +2435,7 @@
         "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8",
         "logo": null,
         "base": "https://streamcenter.xyz",
-        "timestamp": 1782264114.751381,
+        "timestamp": 1782279176.718228,
         "id": "Live.Event.us",
         "link": "https://streams.center/embed/ch1.php"
     },
@@ -2443,7 +2443,7 @@
         "url": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8",
         "logo": null,
         "base": "https://streamcenter.xyz",
-        "timestamp": 1782264114.751381,
+        "timestamp": 1782279176.718228,
         "id": "Live.Event.us",
         "link": "https://streams.center/embed/ch29.php"
     },
@@ -2454,5 +2454,37 @@
         "timestamp": 1782264114.751381,
         "id": "Live.Event.us",
         "link": "https://streams.center/embed/ch1.php"
+    },
+    "[Football] Haiti at Morocco (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8",
+        "logo": null,
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782279176.718228,
+        "id": "Live.Event.us",
+        "link": "https://streams.center/embed/ch1.php"
+    },
+    "[Football] Brazil at Scotland (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8",
+        "logo": null,
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782279176.718228,
+        "id": "Live.Event.us",
+        "link": "https://streams.center/embed/ch3.php"
+    },
+    "[Football] Qatar at Bosnia-Herzegovina (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8",
+        "logo": null,
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782279176.718228,
+        "id": "Live.Event.us",
+        "link": "https://streams.center/embed/ch1.php"
+    },
+    "[Football] Canada at Switzerland (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8",
+        "logo": null,
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782279176.718228,
+        "id": "Live.Event.us",
+        "link": "https://streams.center/embed/ch3.php"
     }
 }
