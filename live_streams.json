@@ -2622,5 +2622,13 @@
         "timestamp": 1782437794.761636,
         "id": "Live.Event.us",
         "link": "https://streams.center/embed/ch70.php"
+    },
+    "[Motor Sport] Lenovo Austrian Grand Prix (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8",
+        "logo": null,
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782466568.161703,
+        "id": "Live.Event.us",
+        "link": "https://streams.center/embed/ch49.php"
     }
 }
