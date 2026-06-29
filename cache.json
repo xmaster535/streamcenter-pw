@@ -2891,7 +2891,7 @@
         "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8",
         "logo": null,
         "base": "https://streamcenter.xyz",
-        "timestamp": 1782698216.789893,
+        "timestamp": 1782716375.295516,
         "id": "Live.Event.us",
         "link": "https://streams.center/embed/ch1.php"
     },
@@ -2899,7 +2899,7 @@
         "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8",
         "logo": null,
         "base": "https://streamcenter.xyz",
-        "timestamp": 1782698216.789893,
+        "timestamp": 1782716375.295516,
         "id": "Live.Event.us",
         "link": "https://streams.center/embed/ch1.php"
     },
@@ -2910,5 +2910,21 @@
         "timestamp": 1782698216.789893,
         "id": "Live.Event.us",
         "link": "https://streams.center/embed/ch73.php"
+    },
+    "[Baseball] Pittsburgh Pirates at Philadelphia Phillies (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8",
+        "logo": null,
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782716375.295516,
+        "id": "Live.Event.us",
+        "link": "https://streams.center/embed/ch16.php"
+    },
+    "[Baseball] Chicago White Sox at Baltimore Orioles (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/dazhfiach15.m3u8",
+        "logo": null,
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782716375.295516,
+        "id": "Live.Event.us",
+        "link": "https://streams.center/embed/ch15.php"
     }
 }
