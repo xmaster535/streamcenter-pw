@@ -734,9 +734,9 @@ https://mainstreams.pro/hls/dazhfiach15.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us",[Baseball] Los Angeles Angels at Seattle Mariners (STRMCNTR)
 https://mainstreams.pro/hls/jzabfazkbf27.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us",[Baseball] Los Angeles Dodgers at Athletics Athletics (STRMCNTR)
-https://mainstreams.pro/hls/hefbafbakx28.m3u8
+https://mainstreams.pro/hls/jzabfazkbf27.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us",[Baseball] San Francisco Giants at Arizona Diamondbacks (STRMCNTR)
-https://mainstreams.pro/hls/hfzljfahzcax29.m3u8
+https://mainstreams.pro/hls/hefbafbakx28.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us",[Football] Morocco at Netherlands (STRMCNTR)
 https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us",[Baseball] Miami Marlins at Colorado Rockies (STRMCNTR)
@@ -748,7 +748,7 @@ https://mainstreams.pro/hls/bzagLHzach19.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us",[WWE] Las Vegas Aces at New York Liberty (STRMCNTR)
 https://mainstreams.pro/hls/zeuryuegn48.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us",[Baseball] Cincinnati Reds at Milwaukee Brewers (STRMCNTR)
-https://mainstreams.pro/hls/ijfnakfidch22.m3u8
+https://mainstreams.pro/hls/fskjanach24.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us",[Baseball] Washington Nationals at Boston Red Sox (STRMCNTR)
 https://mainstreams.pro/hls/Czajafjihafch18.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us",[Baseball] New York Mets at Toronto Blue Jays (STRMCNTR)
@@ -766,10 +766,12 @@ https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us",[Baseball] Tampa Bay Rays at Kansas City Royals (STRMCNTR)
 https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us",[Baseball] St. Louis Cardinals at Atlanta Braves (STRMCNTR)
-https://mainstreams.pro/hls/ojzkajnach21.m3u8
+https://mainstreams.pro/hls/ijfnakfidch22.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us",[Basketball] Las Vegas Aces at New York Liberty (STRMCNTR)
 https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us",[Football] Senegal at Belgium (STRMCNTR)
 https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8
 #EXTINF:-1 tvg-id="Live.Event.us",[Football] Congo DR at England (STRMCNTR)
+https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us",[Football] Bosnia-Herzegovina at United States (STRMCNTR)
 https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8
