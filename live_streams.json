@@ -2160,12 +2160,12 @@
         "link": "https://streams.center/embed/ch1.php"
     },
     "[Basketball] Seattle Storm at Phoenix Mercury (STRMCNTR)": {
-        "url": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8",
+        "url": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8",
         "logo": null,
         "base": "https://streamcenter.xyz",
-        "timestamp": 1781995744.672842,
+        "timestamp": 1783041850.218736,
         "id": "Live.Event.us",
-        "link": "https://streams.center/embed/ch71.php"
+        "link": "https://streams.center/embed/ch72.php"
     },
     "[Basketball] Indiana Fever at Atlanta Dream (STRMCNTR)": {
         "url": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8",
@@ -2928,12 +2928,12 @@
         "link": "https://streams.center/embed/ch15.php"
     },
     "[Baseball] Los Angeles Angels at Seattle Mariners (STRMCNTR)": {
-        "url": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8",
+        "url": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8",
         "logo": null,
         "base": "https://streamcenter.xyz",
-        "timestamp": 1782873206.014332,
+        "timestamp": 1783041850.218736,
         "id": "Live.Event.us",
-        "link": "https://streams.center/embed/ch27.php"
+        "link": "https://streams.center/embed/ch22.php"
     },
     "[Baseball] Los Angeles Dodgers at Athletics Athletics (STRMCNTR)": {
         "url": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8",
@@ -3056,20 +3056,20 @@
         "link": "https://streams.center/embed/ch1.php"
     },
     "[Baseball] Tampa Bay Rays at Kansas City Royals (STRMCNTR)": {
-        "url": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8",
+        "url": "https://mainstreams.pro/hls/jkzahzadach20.m3u8",
         "logo": null,
         "base": "https://streamcenter.xyz",
-        "timestamp": 1782955662.742766,
+        "timestamp": 1783041850.218736,
         "id": "Live.Event.us",
-        "link": "https://streams.center/embed/ch23.php"
+        "link": "https://streams.center/embed/ch20.php"
     },
     "[Baseball] St. Louis Cardinals at Atlanta Braves (STRMCNTR)": {
-        "url": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8",
+        "url": "https://mainstreams.pro/hls/bzagLHzach19.m3u8",
         "logo": null,
         "base": "https://streamcenter.xyz",
-        "timestamp": 1782955662.742766,
+        "timestamp": 1783041850.218736,
         "id": "Live.Event.us",
-        "link": "https://streams.center/embed/ch22.php"
+        "link": "https://streams.center/embed/ch19.php"
     },
     "[Basketball] Las Vegas Aces at New York Liberty (STRMCNTR)": {
         "url": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8",
@@ -3116,6 +3116,54 @@
         "logo": null,
         "base": "https://streamcenter.xyz",
         "timestamp": 1783032330.616307,
+        "id": "Live.Event.us",
+        "link": "https://streams.center/embed/ch1.php"
+    },
+    "[Football] Algeria at Switzerland (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8",
+        "logo": null,
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1783041850.218736,
+        "id": "Live.Event.us",
+        "link": "https://streams.center/embed/ch1.php"
+    },
+    "[Baseball] San Diego Padres at Los Angeles Dodgers (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8",
+        "logo": null,
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1783041850.218736,
+        "id": "Live.Event.us",
+        "link": "https://streams.center/embed/ch23.php"
+    },
+    "[Baseball] Detroit Tigers at Texas Rangers (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/ojzkajnach21.m3u8",
+        "logo": null,
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1783041850.218736,
+        "id": "Live.Event.us",
+        "link": "https://streams.center/embed/ch21.php"
+    },
+    "[Basketball] Dallas Wings at Connecticut Sun (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8",
+        "logo": null,
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1783041850.218736,
+        "id": "Live.Event.us",
+        "link": "https://streams.center/embed/ch71.php"
+    },
+    "[Basketball] Atlanta Dream at Washington Mystics (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8",
+        "logo": null,
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1783041850.218736,
+        "id": "Live.Event.us",
+        "link": "https://streams.center/embed/ch70.php"
+    },
+    "[Football] Croatia at Portugal (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8",
+        "logo": null,
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1783041850.218736,
         "id": "Live.Event.us",
         "link": "https://streams.center/embed/ch1.php"
     }
