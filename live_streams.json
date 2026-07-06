@@ -3128,12 +3128,12 @@
         "link": "https://streams.center/embed/ch1.php"
     },
     "[Baseball] San Diego Padres at Los Angeles Dodgers (STRMCNTR)": {
-        "url": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8",
+        "url": "https://mainstreams.pro/hls/hefbafbakx28.m3u8",
         "logo": null,
         "base": "https://streamcenter.xyz",
-        "timestamp": 1783228120.571022,
+        "timestamp": 1783300995.069773,
         "id": "Live.Event.us",
-        "link": "https://streams.center/embed/ch29.php"
+        "link": "https://streams.center/embed/ch28.php"
     },
     "[Baseball] Detroit Tigers at Texas Rangers (STRMCNTR)": {
         "url": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8",
@@ -3248,12 +3248,12 @@
         "link": "https://streams.center/embed/ch26.php"
     },
     "[Baseball] Boston Red Sox at Los Angeles Angels (STRMCNTR)": {
-        "url": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8",
+        "url": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8",
         "logo": null,
         "base": "https://streamcenter.xyz",
-        "timestamp": 1783228120.571022,
+        "timestamp": 1783300995.069773,
         "id": "Live.Event.us",
-        "link": "https://streams.center/embed/ch26.php"
+        "link": "https://streams.center/embed/ch29.php"
     },
     "[Football] Ghana at Colombia (STRMCNTR)": {
         "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8",
@@ -3422,5 +3422,29 @@
         "timestamp": 1783290418.111537,
         "id": "Live.Event.us",
         "link": "https://streams.center/embed/ch70.php"
+    },
+    "[Football] England at Mexico (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8",
+        "logo": null,
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1783300995.069773,
+        "id": "Live.Event.us",
+        "link": "https://streams.center/embed/ch1.php"
+    },
+    "[Basketball] San Antonio Spurs at Golden State Warriors Gold (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/zayrtezafgvdv68.m3u8",
+        "logo": null,
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1783300995.069773,
+        "id": "Live.Event.us",
+        "link": "https://streams.center/embed/ch68.php"
+    },
+    "[Basketball] Indiana Fever at Las Vegas Aces (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8",
+        "logo": null,
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1783300995.069773,
+        "id": "Live.Event.us",
+        "link": "https://streams.center/embed/ch71.php"
     }
 }
